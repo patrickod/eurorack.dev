@@ -1,0 +1,14 @@
+baseurl = "https://eurorack.dev"
+disablePathToLower = true
+languageCode = "en"
+title = "eurorack dot dev"
+subTitle = "a journey is musical making"
+theme = "basics"
+copyright = "Patrick O'Doherty"
+relativeURLS = false
+
+enableRobotsTXT = true
+googleAnalytics = ""
+
+[permalinks]
+path = "/:year/:month/:filname"
