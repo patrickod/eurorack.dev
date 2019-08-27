@@ -11,4 +11,4 @@ enableRobotsTXT = true
 googleAnalytics = ""
 
 [permalinks]
-path = "/:year/:month/:filname"
+path = "/:year/:month/:filename"
