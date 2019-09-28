@@ -1,4 +1,4 @@
-baseurl = "https://eurorack.dev"
+baseurl = "https://patrickod.github.io/eurorack.dev"
 disablePathToLower = true
 languageCode = "en"
 title = "eurorack dot dev"
