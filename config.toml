@@ -3,12 +3,17 @@ disablePathToLower = true
 languageCode = "en"
 title = "eurorack dot dev"
 subTitle = "a journey is musical making"
-theme = "basics"
+theme = "ezhil"
 copyright = "Patrick O'Doherty"
 relativeURLS = false
 
 enableRobotsTXT = true
 googleAnalytics = ""
+
+[params]
+  subtitle = "a journey in music making"
+  mainSections = ["posts"]
+ 
 
 [permalinks]
 posts = "/:year/:month/:title"
