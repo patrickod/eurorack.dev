@@ -1,4 +1,4 @@
-baseurl = "https://patrickod.github.io/eurorack.dev"
+baseurl = "https://patrickod.github.io/eurorack.dev/"
 disablePathToLower = true
 languageCode = "en"
 title = "eurorack dot dev"
@@ -11,4 +11,4 @@ enableRobotsTXT = true
 googleAnalytics = ""
 
 [permalinks]
-posts = "/:year/:month/:filename"
+posts = "/:year/:month/:title"
